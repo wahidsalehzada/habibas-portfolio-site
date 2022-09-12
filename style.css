@@ -11,7 +11,7 @@
 }
 html,
 body {
-  background-color: #fff;
+  background-color: rgb(63, 181, 122);
   color: #222;
   height: 100%;
   margin: 0;
@@ -39,7 +39,7 @@ body {
   /* height: 100vh; */
 }
 .background-color {
-  background-color: rgba(238, 237, 234, 0.62);
+  background-color: rgba(246, 246, 246, 0.777);
 }
 .grid-item-1 {
   display: grid;
@@ -80,7 +80,7 @@ body {
 }
 .grid-container {
   position: relative;
-  padding: 20px;
+  padding: 0px 20px 0px 20px;
   width: 100%;
 }
 
